@@ -1,4 +1,4 @@
-# 🚀 Distributed Job Scheduler – Backend
+# 🚀 Distributed Job Scheduler – Backend 
 
 A **scalable distributed job scheduling system** built using **Spring Boot**, **RabbitMQ**, and **MySQL**.  
 This system supports one-time and recurring jobs with retry mechanisms, failure handling, and distributed execution.
